@@ -1,0 +1,13 @@
+Create Screen
+
+Create Paddles
+Control Paddles
+
+Create Scoreboard
+Create Half Line
+
+
+Create Pong Ball
+Make Pong Ball Move
+Detect Collisions with the Walls and the Paddles
+Detect Collisions on Point
